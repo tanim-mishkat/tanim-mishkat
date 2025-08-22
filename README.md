@@ -2,7 +2,7 @@
 Entry-level web developer with hands-on experience in modern web stacks. Skilled in building full-stack applications, integrating APIs, and delivering responsive UIs. Strong foundation in JavaScript, Python, and databases. Open to opportunities where I can grow and contribute to impactful projects.
 
 📍 Sylhet, Bangladesh  
-📧 t5mishkat@gmail.com | 📱 +8801748022270  
+📧 mishkat.workmail@gmail.com  
 
 ---
 
