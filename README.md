@@ -1,54 +1,52 @@
-# Hi, I'm Md. Tanimur Rahman 👋
-Entry-level web developer with hands-on experience in modern web stacks. Skilled in building full-stack applications, integrating APIs, and delivering responsive UIs. Strong foundation in JavaScript, Python, and databases. Open to opportunities where I can grow and contribute to impactful projects.
+<!-- Profile visits (public counter; directional, not exact) -->
 
-📍 Sylhet, Bangladesh  
-📧 mishkat.workmail@gmail.com  
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=tanim-mishkat&label=Profile%20visits&style=flat" alt="profile visit counter"/>
+</p>
 
----
+# Hey🙋🏻‍♂️, I’m Md. Tanimur Rahman (Mishkat)
+📍Based in **Bangladesh** | 🧑🏻‍💻**Open to remote** | **Target roles:** Backend / Full-Stack / Junior Software Engineer
+📩**Email:** [mishkat.workmail@gmail.com](mailto:mishkat.workmail@gmail.com) | 🔗[LinkedIn](https://www.linkedin.com/in/md-tanimur-rahman-mishkat/)
 
-## 🚀 Technical Skills
-**Languages:** JavaScript, Python, C++, SQL  
-**Frontend:** HTML5, CSS3, Tailwind CSS, React.js, Next.js  
-**Backend:** Node.js, Express.js, Django  
-**Databases:** MongoDB, MySQL, SQLite  
-**Tools:** Git, Firebase, Clerk, WordPress, Jupyter Notebooks  
-**Other:** REST APIs, WebSockets, JWT, Agile, Socket.io, Liveblocks  
+I am an entry-level, backend-focused, full-stack developer who ships end-to-end features with **Node.js** and **Express**, builds responsive UIs with **React** and **Next.js**, and manages databases with **MongoDB** and **PostgreSQL**. 
 
----
+I have experience with **WordPress (Elementor)** and **GoHighLevel** CRM automations.
 
-## 📂 Featured Projects
-- **[Loopr – Collaborative Workspace](#)**  
-  Multi-user document editing with real-time updates using Liveblocks & Next.js, Clerk.js authentication, and AI-assisted writing (Gemini API).  
-  *Tech:* Next.js, Liveblocks, Clerk.js, Tailwind CSS, ShadCN
+I am also an ML and AI enthusiast who has built prediction models, worked with Kaggle datasets, and improved existing notebooks and codebases. I want to combine software development with applied ML and AI, and I am open to research work in this domain.
 
-- **[Uber-Clone – Real-Time Ride Sharing](#)**  
-  REST API + real-time ride updates via Socket.io, JWT authentication, OpenStreetMap & OSRM API integration, and React Leaflet UI.  
-  *Tech:* Node.js, Express.js, Socket.io, React.js, Leaflet, JWT
-
-- **[Lost & Found Portal – Metropolitan University](#)**  
-  Django-based lost & found system with role-based access, CRUD for posts/claims, search & notifications, and analytics dashboard.  
-  *Tech:* Django, Python, MySQL
+I focus on clean APIs, sensible data models, and interactive live demos so reviewers can quickly see how everything works. 
 
 ---
 
-## 💼 Experience
-**Freelance Web Developer – HustleBlaze (2022 – Present)**  
-- Designed and deployed responsive WordPress websites per client specs.  
-- Customized layouts, improved SEO, integrated content & plugins.  
+# Featured Projects: Concise Overviews
+
+## Reelify: Food Style Reel App
+
+- Reelify is a short video food app where restaurants upload reels and users discover dishes in a focused feed. 
+- Users can open a partner profile, view the menu from the reel, add items to cart, and check out in the same flow while orders update in real time. 
+- Auth uses JWT with role based access for customers and partners, data lives in MongoDB with indexes for fast queries, and videos are served through ImageKit CDN with signed URLs for reliable playback.
+- **Tech stack:** React 19, React Router, Node.js, Express, MongoDB, Socket.io, ImageKit, Web Push API, JWT.
+- **Links:** **[Live Site](https://reel-style-food-app.onrender.com/)** | **[Repo](https://github.com/tanim-mishkat/Reel-Style-Food-App)** | **[Demo video]( https://youtu.be/CvBApJZyIuU?si=okcDn13bb4ABcDuW)**
 
 ---
 
-## 🎓 Education
-**B.Sc. in Computer Science & Engineering** – Metropolitan University, Sylhet  
-Expected Graduation: April 2026  
-*Relevant Coursework:* Web Development, Data Structures, Software Engineering  
+## URL Shortener and Analytics Dashboard
+
+- This project lets users create custom short URLs, organize them with folders and tags, and view analytics by date, location, referrer, and device. 
+- The dashboard stays responsive because click events trigger write time aggregation using MongoDB pipelines, and large lists use cursor based pagination so performance remains stable. 
+- Admin tasks are faster with bulk endpoints for multi update and multi delete, and the client uses TanStack Query for caching, retries, and request deduplication.
+- **Tech stack:** React, Node.js, Express, MongoDB, TanStack Query, JWT.
+- **Links:** **[Live Site](https://url-shortener-frontend-q3gy.onrender.com/)** | **[Repo](https://github.com/tanim-mishkat/URL-Shortener)** | **[Demo video](https://youtu.be/a0UaPkrp4fE?si=1z83eoTak34IppHf)**
 
 ---
 
-## 🌐 Languages
-English (Fluent), Bangla (Native)  
+## Ride Sharing Platform
+
+- This is a real time ride hailing app with separate rider and driver views so each side can do exactly what they need. 
+- Riders request trips and get a fare estimate, nearby drivers can accept the request, both sides share live locations, and the ride only starts after OTP verification for safety. 
+- Nearby search runs in MongoDB with GeoJSON and a 2dsphere index, routing and ETA come from OSRM, sessions use JWT with a blacklist, and the map UI uses React with OpenStreetMap tiles.
+- **Tech stack:** React, Node.js, Express, MongoDB GeoJSON and 2dsphere index, Socket.io rooms, OSRM, OpenStreetMap tiles, JWT with blacklist, OTP.
+- **Links:** **[Live Site](https://uber-41vs.onrender.com/)** | **[Repo](https://github.com/tanim-mishkat/Uber-Clone)** | **[Demo video](https://youtu.be/XDW9JwIUwmc?si=1Cib6QIXHYRS2dmH)**
 
 ---
 
-## 📫 Let's Connect
-[LinkedIn](#) • [GitHub](#) • [Email](mailto:t5mishkat@gmail.com)
