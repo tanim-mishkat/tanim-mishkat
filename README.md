@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=tanim-mishkat&label=Profile%20visits&style=flat" alt="profile visit counter"/>
 </p>
 
-# Hey🙋🏻‍♂️, I’m Md. Tanimur Rahman (Mishkat)
+# Hey🙋🏻‍♂️, I’m Md. Tanimur Rahman
 📍Based in **Bangladesh** | 🧑🏻‍💻**Open to remote** | **Target roles:** Backend / Full-Stack / Junior Software Engineer
 📩**Email:** [mishkat.workmail@gmail.com](mailto:mishkat.workmail@gmail.com) | 🔗[LinkedIn](https://www.linkedin.com/in/md-tanimur-rahman-mishkat/)
 
