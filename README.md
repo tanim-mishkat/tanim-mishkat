@@ -5,7 +5,7 @@
 </p>
 
 # Hey🙋🏻‍♂️, I’m Md. Tanimur Rahman
-📍Based in **Bangladesh** | 🧑🏻‍💻**Open to remote** | **Target roles:** Backend / Full-Stack / Junior Software Engineer
+📍Based in **Bangladesh** | 🧑🏻‍💻**Open to remote** | **Target roles:** Backend / Full-Stack / Junior Software Engineer  
 📩**Email:** [mishkat.workmail@gmail.com](mailto:mishkat.workmail@gmail.com) | 🔗[LinkedIn](https://www.linkedin.com/in/md-tanimur-rahman-mishkat/)
 
 I am an entry-level, backend-focused, full-stack developer who ships end-to-end features with **Node.js** and **Express**, builds responsive UIs with **React** and **Next.js**, and manages databases with **MongoDB** and **PostgreSQL**. 
